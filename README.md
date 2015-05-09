@@ -26,6 +26,7 @@ This script scans a directory "Files" for NWCheckCompatibility;
 For information about the functions, please check the documentation inside the .php-file!
 ### With NWCompatibilityChecker you can:
 * check for compatibility
+
 ## Changelog
 v1.0
 - initial release
