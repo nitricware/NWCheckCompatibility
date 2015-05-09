@@ -7,9 +7,9 @@ NWCheckCompatibility was created by **Kurt Höblinger** as **NitricWare**.
 ## Requirements
 NWCheckCompatibility requires PHP 5.x.
 ## Usage
-In order to use NWCompatibilityChecker, you just need to include the .php-file and write the use command.
+In order to use NWCheckCompatibility, you just need to include the .php-file and write the use command.
 ```php
-require "./path/to/NWCompatibilityChecker.php";
+require "./path/to/NWCheckCompatibility.php”;
 ```
 Done. No installation required.
 ### Example
